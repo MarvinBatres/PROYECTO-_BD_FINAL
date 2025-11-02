@@ -2,5 +2,9 @@ public class HolaMundo {
     public static void main(String[] args) {
         System.out.println("Esto es una prueba");
         System.out.println("¡Hola Mundo!");
+
+        System.out.println("TACOS y Pizza");
+
+
     }
 }
